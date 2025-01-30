@@ -64,7 +64,7 @@ const ContactUs = () => {
         <div className="relative">
           <div className="w-full h-80 rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-all duration-300">
             <iframe
-              src="https://www.google.com/maps?q=Jaffna+Town%2C+Sri+Lanka&output=embed"
+              src="https://www.google.com/maps/dir//jaffna"
               className="w-full h-full"
               frameBorder="0"
               allowFullScreen

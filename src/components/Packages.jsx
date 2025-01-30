@@ -1,6 +1,5 @@
 import React from 'react';
 import LazyLoad from 'react-lazyload';
-import Booking from './Booking';
 
 const packagesData = [
   {
