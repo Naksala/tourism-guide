@@ -43,7 +43,7 @@ const HeroSection = () => {
                 className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-teal-500 focus:border-teal-500 text-sm"
               />
             </div>
-            <button className="bg-teal-500 hover:bg-teal-600 text-white font-medium py-2 px-4 rounded-md">
+            <button className="bg-teal-500 hover:bg-teal-600 text-white font-medium py-1 px-3 rounded-md">
             Search Packages
             </button>
           </div>
@@ -52,22 +52,22 @@ const HeroSection = () => {
         {/* Right Content */}
         <div className="grid grid-cols-2 gap-4">
           <img
-            src="./img-01.png"
+            src="https://res.cloudinary.com/dz1yqf7jx/image/upload/v1737655422/21_kl6ibp.jpg"
             alt="Travel 1"
             className="rounded-lg shadow-lg w-[300px] h-[300px] object-cover"
           />
           <img
-            src="./img-02.png"
+            src="https://res.cloudinary.com/dz1yqf7jx/image/upload/v1737655423/22_liuzxc.jpg"
             alt="Travel 2"
             className="rounded-lg shadow-lg w-[300px] h-[300px] object-cover"
           />
           <img
-            src="./img-03.png"
+            src="https://res.cloudinary.com/dz1yqf7jx/image/upload/v1737655425/24_rxyins.jpg"
             alt="Travel 3"
             className="rounded-lg shadow-lg w-[300px] h-[300px] object-cover"
           />
           <img
-            src="./img-05.png"
+            src="https://res.cloudinary.com/dz1yqf7jx/image/upload/v1737655427/23_xthkiv.jpg"
             alt="Travel 4"
             className="rounded-lg shadow-lg w-[300px] h-[300px] object-cover"
           />

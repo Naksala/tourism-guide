@@ -10,7 +10,7 @@ const WhyChooseUs = () => {
         <div className="relative">
           <div className="absolute inset-0 -left-6 -top-6 rounded-3xl bg-blue-100 w-full h-full"></div>
           <img
-            src="./img-01.png" // Replace with your image URL
+            src="https://res.cloudinary.com/dz1yqf7jx/image/upload/v1737655687/26_bcwkwd.jpg" // Replace with your image URL
             alt="Travel Destination"
             className="relative z-10 rounded-3xl shadow-lg w-[300px] h-[300px] object-cover"
           />

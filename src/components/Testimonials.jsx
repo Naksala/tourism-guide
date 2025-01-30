@@ -5,21 +5,21 @@ const Testimonials = () => {
     {
       name: 'Max Skshena',
       role: 'CEO Of XYZ Company',
-      image: './img-01.png',
+      image: 'https://res.cloudinary.com/dz1yqf7jx/image/upload/v1737654269/12_kxyk7y.jpg',
       feedback:
         'WanderWay exceeded all my expectations! From seamless planning to unforgettable experiences, every detail was handled with care. I’ve never felt more relaxed and excited during a trip. Truly the best travel company I’ve worked with.',
     },
     {
-      name: 'Emily Carter',
+      name: 'Shera Jack',
       role: 'Travel Enthusiast',
-      image: './img-02.png',
+      image: 'https://res.cloudinary.com/dz1yqf7jx/image/upload/v1737654264/15_ecrcdr.jpg',
       feedback:
         'The team at WanderWay made everything so easy! The destinations were amazing, and the customer service was exceptional. I can’t wait for my next adventure!',
     },
     {
-      name: 'John Patel',
-      role: 'Business Traveler',
-      image: './img-03.png',
+      name: 'Alexa Sherine',
+      role: 'Individual Traveler',
+      image: 'https://res.cloudinary.com/dz1yqf7jx/image/upload/v1737654278/13_jvjer7.jpg',
       feedback:
         'WanderWay’s attention to detail and curated experiences have made my business trips feel like vacations. They really go above and beyond to meet your needs.',
     },

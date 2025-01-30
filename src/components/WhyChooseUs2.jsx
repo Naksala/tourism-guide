@@ -13,15 +13,18 @@ const WhyChooseUs2 = () => {
           <p className="text-gray-600 mb-6 mr-2 leading-relaxed">
             At WanderWay, we’re dedicated to making your travel dreams a reality. Whether you seek breathtaking landscapes, cultural immersion, or thrilling adventures, we ensure every journey is unforgettable.
           </p>
-          <button className="px-6 py-3 bg-teal-500 text-white rounded-lg shadow-lg hover:bg-teal-800 transition">
+          <a
+            href="/about"
+            className="bg-teal-600 hover:bg-teal-700 text-white py-3 px-6 rounded-md text-lg font-semibold"
+          >
             About Us
-          </button>
+          </a>
         </div>
         {/* Right Image */}
         <div className="lg:w-1/2 relative">
           <div className="rounded-lg overflow-hidden shadow-lg">
             <img
-              src="./img-01.png"
+              src="https://res.cloudinary.com/dz1yqf7jx/image/upload/v1737655685/25_ddhuov.jpg"
               alt="Explore World"
               className="object-cover w-[800px] h-[400px]"
             />
